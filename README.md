@@ -27,8 +27,6 @@ To run the Calculator App locally, follow these steps:
 2. Navigate to the project directory: `cd calculator-app`
 3. Open the `index.html` file in your web browser.
 
-Alternatively, you can use any web server (e.g., Apache, Nginx) to serve the files and access the app through `http://localhost`.
-
 ## Usage
 
 1. Launch the Calculator App in your web browser.
